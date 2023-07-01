@@ -5,4 +5,13 @@
 --   pattern = "*",
 --   command = "tabdo wincmd =",
 -- })
+
+
+
+
+-- Neovide Settings
+--
+--
 vim.o.guifont = "M+1Code Nerd Font:h11"
+vim.g.neovide_transparency = 0.8
+vim.g.transparency = 0.8
