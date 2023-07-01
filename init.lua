@@ -5,3 +5,4 @@
 --   pattern = "*",
 --   command = "tabdo wincmd =",
 -- })
+vim.o.guifont = "M+1Code Nerd Font:h11"
